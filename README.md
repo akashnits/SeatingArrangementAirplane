@@ -6,6 +6,7 @@ Test case #1
 Input
 
 First line contains number of passengers to be boarded
+
 Second line contains number of matrices say k
 
 K line follows representing dimension of each matrix
@@ -38,6 +39,7 @@ Print elements of each matrix on separate line starting from first matrix
 Test case #2
 
 Input:
+
 25
 
 3
@@ -49,6 +51,7 @@ Input:
 4 3
 
 Output:
+
 13 1 15 5 17 9 
 
 2 19 3 6 22 7 10 25 11 
@@ -60,6 +63,7 @@ Output:
 Test case #3
 
 Input:
+
 11
 
 1
@@ -67,11 +71,13 @@ Input:
 4 3
 
 Output:
+
 1 7 8 2 3 9 10 4 5 11 0 6 
 
 Test case #4
 
 Input:
+
 60
 
 6
@@ -89,6 +95,7 @@ Input:
 3 4
 
 Output:
+
 38 45 46 1 40 53 54 11 42 0 0 21 
 
 2 47 48 49 3 12 55 56 57 13 22 0 0 0 23 29 0 0 0 30 34 0 0 0 35 36 0 0 0 37 
